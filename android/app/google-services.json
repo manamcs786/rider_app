@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837148770292",
+    "project_id": "riderapp-bead2",
+    "storage_bucket": "riderapp-bead2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837148770292:android:a8d885240d528bab1503a1",
+        "android_client_info": {
+          "package_name": "com.example.rider_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzGSo__7sAQsoE2RMrqwo3iFbXF6yK5XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
